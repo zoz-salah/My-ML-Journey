@@ -1,6 +1,6 @@
 01-ML-From-Scratch/
 │
-├── 01-Linear-Regression & gradient_descent/
+├── 01-Linear-Regression-&-gradient_descent/
 │   ├── linear_regression with gradient_descent.py
 │  
 │ 
