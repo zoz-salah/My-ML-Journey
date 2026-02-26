@@ -39,14 +39,5 @@ Machine Learning from scratch - Building algorithms step by step with pure code
 ---
 
 
-## 🚀 Roadmap 
-
-| |
-|---------|---------|-------|
-| 01 | Linear Regression + Gradient Descent | أسبوع 1-2 |
-| 02 | Logistic Regression | أسبوع 3 |
-| 03 | Neural Network with NumPy | أسبوع 4-5 |
-| 04 | MNIST with PyTorch | أسبوع 6 |
-
 --
 MIT License - Feel free to use and learn from this code
