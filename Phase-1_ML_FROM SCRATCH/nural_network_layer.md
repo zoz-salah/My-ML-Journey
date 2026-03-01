@@ -7,7 +7,7 @@
 <img width="791" height="388" alt="image" src="https://github.com/user-attachments/assets/a795ca64-700f-47dd-9d5b-cd7ade396508" />
 
 
-A complete from-scratch implementation of a Neural Network for classification problems, built layer by layer using only NumPy.
+A complete from scratch implementation of a Neural Network for classification problems, built layer by layer using only NumPy.
 
 ---
 
