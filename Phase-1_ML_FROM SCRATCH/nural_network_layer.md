@@ -64,5 +64,9 @@ Features: n_in   Hidden 1: n_h1   Hidden 2: n_h2   Classes: n_out
 | **Tanh** | `(eˣ-e⁻ˣ)/(eˣ+e⁻ˣ)` | (-1, 1) | Hidden layers | Zero-centered |
 | **Softmax** | `eˣ/Σeˣ` | (0, 1) | Multi-class output | Probability distribution |
 
+
+<img width="1200" height="603" alt="image" src="https://github.com/user-attachments/assets/2b206bf7-1822-45a2-9986-4e38cea7317c" />
+<img width="1200" height="603" alt="image" src="https://github.com/user-attachments/assets/2672ee2c-055b-48d7-9afb-eb59a9529716" />
+
 ---
 
