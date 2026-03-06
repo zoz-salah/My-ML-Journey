@@ -21,7 +21,7 @@ Machine Learning from scratch - Building algorithms step by step with pure code
 │   └── README.md
 │
 ├── 03-Neural-Network-NumPy/
-│   ├── nn_model.py                                     # Neural Network implementation
+│   ├── MNIST_from_0.py                                 #  MNIST Neural Network implementation
 │   ├── activation_functions.py                         # Sigmoid, ReLU, Tanh, etc.
 │   ├── utils.py                                        # Helper functions
 │   └── README.md
