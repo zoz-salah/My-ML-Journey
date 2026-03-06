@@ -69,7 +69,7 @@ Features: n_in   Hidden 1: n_h1   Hidden 2: n_h2   Classes: n_out
 <img width="1200" height="603" alt="image" src="https://github.com/user-attachments/assets/2672ee2c-055b-48d7-9afb-eb59a9529716" />
 
 ---
-## I will build it for MNIST 28*28 (0->255)👇
+## I will build it for MNIST 28*28 (0->255) using NUMPY👇
 <img width="1156" height="639" alt="image" src="https://github.com/user-attachments/assets/8dc4abd1-6e89-4fc7-8fc1-bbbd797e99fa" />
 activation functions : 
 1-sigmoid 
