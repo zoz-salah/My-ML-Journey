@@ -32,8 +32,8 @@ Machine Learning from scratch - Building algorithms step by step with pure code
 │   ├── test.py                                          # Evaluation
 │   └── README.md
 │
-└── datasets/                                            # Dataset folder (ignored by git)
-    └── README.md                                        # Instructions for datasets
+└── datasets/                                            # Dataset folder (KAGGLE)
+    └── README.md                                       
 ```
 
 ---
