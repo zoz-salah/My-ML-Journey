@@ -1,4 +1,5 @@
 import numpy as np
+import pandas as pd
 from matplotlib import pyplot as plt
 
 def init_params(input_size=784, hidden_size=10, output_size=10):
