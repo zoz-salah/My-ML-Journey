@@ -9,6 +9,7 @@ b = 0
 
 learning_rate = 0.1
 n = len(x)
+
  #liniar regression normal
  
 
