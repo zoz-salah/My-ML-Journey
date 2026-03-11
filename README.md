@@ -10,6 +10,7 @@ from mathematical foundations to Neural Networks and NLP.
 - Partial Derivatives
 - Chain Rule
 - Linear Algebra
+- Propabilty and statistical methods
 - python syntax and oop
 - numpy , pandas
 - matplotib
