@@ -18,7 +18,7 @@ from mathematical foundations to Neural Networks and NLP.
 ### Phase 1: ML From Scratch
 - Linear Regression
 - Logistic Regression
-- Neural Networks (NumPy)
+- Neural Networks ( MNIST NumPy)
 - MNIST (PyTorch)
 
 ### Phase 2: NLP Basics
