@@ -4,7 +4,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.21+-green.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-red.svg)
 
-Machine Learning from scratch - Building algorithms step by step with pure code
+Machine Learning from scratch - Building algorithms step by step with pure code.
 
 ---
 
