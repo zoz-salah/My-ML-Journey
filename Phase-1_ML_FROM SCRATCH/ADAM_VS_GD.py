@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 #     beta1=0.9,            
 #     beta2=0.999,          
 #     epsilon=1e-8          
-# 
+
 
 
 def f(x):
