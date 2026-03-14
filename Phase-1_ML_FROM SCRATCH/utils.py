@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
+ from PIL import Image, ImageDraw, ImageFont
 
 def init_params(input_size=784, hidden_size=10, output_size=10):
     W1 = np.random.rand(hidden_size, input_size) * 0.01
@@ -72,3 +73,10 @@ def test_prediction(index, X_train, Y_train, W1, b1, W2, b2):
     plt.imshow(current_image, interpolation='nearest')
     plt.show()
     return prediction, label
+
+def pil_learn():
+    img = Image.open('data.jpg')
+    draw = ImageDraw.Draw(img)
+    draw.text((50, 50), "data after modify", fill="black")
+    img.save('data_modify.jpg')   
+
