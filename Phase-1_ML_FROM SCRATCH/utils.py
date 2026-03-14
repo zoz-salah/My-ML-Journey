@@ -10,6 +10,11 @@ def init_params(input_size=784, hidden_size=10, output_size=10):
     b2 = np.random.rand(output_size, 1)
     return W1, b1, W2, b2
 
+def softmax(x):
+    exp_x = np.exp(x - np.max(x))
+    return exp_x / np.sum(exp_x)
+
+
 def forward_prop(W1, b1, W2, b2, X):
     Z1 = W1.dot(X) + b1
     A1 = ReLU(Z1)
