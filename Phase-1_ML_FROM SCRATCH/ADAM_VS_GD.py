@@ -61,7 +61,7 @@ for i in range(50):
     x_adam = adam.update(x_adam, grad_adam)
     adam_history.append(x_adam)
 
-#visual compare 
+#visual compare (by AI) using matplotlib
 plt.figure(figsize=(12, 4))
 
 plt.subplot(1, 2, 1)
