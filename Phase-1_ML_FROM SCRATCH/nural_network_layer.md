@@ -13,13 +13,13 @@ A complete from scratch implementation of a Neural Network for classification pr
 
 ## 📋 Overview
 
-This implementation demonstrates how to build a fully-connected (dense) neural network from the ground up. You'll understand exactly what happens inside each layer during forward propagation and backpropagation.
+This implementation demonstrates how to build a fully-connected neural network from the ground up. You'll understand exactly what happens inside each layer during forward propagation and backpropagation.
 
 ---
 
 ## 🏗️ Neural Network Architecture
 
-### Network Structure
+### Structure
 
 ```
 INPUT LAYER        HIDDEN LAYERS          OUTPUT LAYER
