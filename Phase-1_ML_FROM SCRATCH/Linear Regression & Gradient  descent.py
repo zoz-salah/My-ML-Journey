@@ -7,7 +7,7 @@ y = np.array([50,60,70,80])
 w = 0
 b = 0
 
-learning_rate = 0.01
+learning_rate = 0.01    #vary as u like
 n = len(x)
 
 #gradient descent for decreasing eror
