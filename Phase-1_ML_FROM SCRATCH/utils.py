@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
- from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont
 
 def init_params(input_size=784, hidden_size=10, output_size=10):
     W1 = np.random.rand(hidden_size, input_size) * 0.01
