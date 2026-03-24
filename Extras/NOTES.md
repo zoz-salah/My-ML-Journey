@@ -6,5 +6,5 @@ It is a model of a single neuron that can be used for two-class classification p
 in python : https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/
 
 there is a polar for preprocecisig data instead of pandas
-tutorial:
+tutorial::
 https://www.datacamp.com/tutorial/python-polars-tutorial-complete-guide-for-beginners
