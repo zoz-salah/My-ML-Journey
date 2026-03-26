@@ -1,4 +1,67 @@
 ## IMPORTANT NOTES 3LA ELMA4YY
+
+## COURSE :
+📌 بدأت معاكم من الأساسيات:
+
+* Python + Numpy + Pandas
+* Data Analysis & Visualization باستخدام Matplotlib & Seaborn
+* فهم الداتا وازاي تتعامل معاها بشكل احترافي
+
+📌 بعد كده دخلنا في مرحلة مهمة جدًا (اللي ناس كتير بتتجاهلها):
+
+* Missing Values
+* Encoding
+* Scaling
+* Outliers
+* Cross Validation
+* Feature Selection
+* Dimensionality Reduction
+* Grid Search & Random Search
+* Pipelines & ColumnTransformer
+* التعامل مع الـ Unbalanced Data
+
+📌 وبعدها بدأنا نكسر الدنيا في Algorithms:
+
+* Linear Regression & Logistic Regression
+* Lasso & Ridge
+* Naive Bayes
+* KNN
+* SVM
+* Decision Tree
+
+📌 وبعد كده دخلنا مرحلة الاحتراف:
+
+* Ensemble Learning
+* Bagging & Boosting
+* Random Forest & Extra Trees
+* AdaBoost & Gradient Boosting
+* Hist Gradient Boosting
+* LightGBM & XGBoost & CatBoost
+
+📌 وكملنا الصورة كاملة:
+
+* Clustering (K-Means, Hierarchal, DBSCAN)
+* Time Series
+* Model Evaluation
+* Deployment
+
+📌 والأهم… التطبيق العملي 🔥
+اشتغلنا على مشاريع كتير جدًا حقيقية تقدر تتحط في Portfolio زي:
+
+* House Price Prediction
+* Customer Segmentation
+* Car Price Prediction
+* Medical Cost Prediction
+* Australia Weather Prediction
+* Egypt Real Estate Prediction
+* Loan Prediction
+* Heart Failure Prediction
+* Time Series Forecasting
+* End-to-End ML Project + Deployment باستخدام Streamlit
+
+link :
+https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd.in%2FdJ9hzaAE&urlhash=Odrz&mt=P6c9mZrYPKxnUQCMDgBBOju09M1vF_mI1ykqWvqTA34Yz0f56Rn7DuQcMAyZDSHmfQ3eM0jOA4LrvmXWrHtkzJonyt_wn2QUGG0nhy2jiuIdS8sTfeneuae8oNg&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRIDVqzP9SweOFAvpTM2gWg%3D%3D
+
 <img width="720" height="684" alt="image" src="https://github.com/user-attachments/assets/48822b8b-b95b-4e76-92b9-fd0c352e2f4d" />
 ## what is perceptron?
 The Perceptron algorithm is the simplest type of artificial neural network.
