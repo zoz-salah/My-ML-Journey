@@ -15,7 +15,7 @@
 * Outliers
 * Cross Validation
 * Feature Selection
-* Dimensionality Reduction
+* Dimensionality Reductionn
 * Grid Search & Random Search
 * Pipelines & ColumnTransformer
 * التعامل مع الـ Unbalanced Data
