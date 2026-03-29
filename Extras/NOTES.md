@@ -75,5 +75,9 @@ https://www.datacamp.com/tutorial/python-polars-tutorial-complete-guide-for-begi
 slides:
 https://drive.google.com/file/d/1O6ie403lKLqGG5thZS9MzMQaQYyY5tjI/view
 
+projects playlist:
+<img width="1080" height="986" alt="image" src="https://github.com/user-attachments/assets/caf0025a-e6f7-4c16-947c-ec38214dcc66" />
+
+
 GRADUATION PROJECT : (breast cancer detect and treatment)
 
