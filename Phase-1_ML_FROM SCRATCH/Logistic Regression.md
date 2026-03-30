@@ -2,7 +2,7 @@
 <img width="512" height="274" alt="image" src="https://github.com/user-attachments/assets/82c33c8f-2c6c-4ea5-8153-587aae091e24" />
 <img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/b09fc3ea-a2f3-49ce-a3de-30f61e080ca5" />
 
-## 📌 file Overview
+## 📌 file Overview :
 
 This file implements **Binary Logistic Regression from scratch** using only **NumPy** — without using any machine learning libraries 
 
