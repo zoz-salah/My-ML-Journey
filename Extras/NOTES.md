@@ -3,7 +3,7 @@
 ## COURSE :
 📌 بدأت معاكم من الأساسيات:
 
-* Python + Numpy + Pandas
+* Python + Numpy + Pandas..
 * Data Analysis & Visualization باستخدام Matplotlib & Seaborn
 * فهم الداتا وازاي تتعامل معاها بشكل احترافي
 
