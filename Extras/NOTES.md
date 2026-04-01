@@ -1,11 +1,11 @@
 ## IMPORTANT NOTES 3LA ELMA4YY
 
 ## COURSE :
-📌 بدأت معاكم من الأساسيات:
+📌 بدأت  من الأساسيات:
 
 * Python + Numpy + Pandas..
-* Data Analysis & Visualization باستخدام Matplotlib & Seaborn
-* فهم الداتا وازاي تتعامل معاها بشكل احترافي
+* Data Analysis & Visualization  Matplotlib & Seaborn
+* فهمت الداتا وازاي تتعامل معاها بشكل احترافي
 
 📌 بعد كده دخلنا في مرحلة مهمة جدًا (اللي ناس كتير بتتجاهلها):
 
