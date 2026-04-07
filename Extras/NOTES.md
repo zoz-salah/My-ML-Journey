@@ -45,7 +45,7 @@
 * Model Evaluation
 * Deployment
 
-📌 والأهم… التطبيق العملي 🔥
+📌 والأهم… التطبيق العملي
 اشتغلنا على مشاريع كتير جدًا حقيقية تقدر تتحط في Portfolio زي:
 
 * House Price Prediction
