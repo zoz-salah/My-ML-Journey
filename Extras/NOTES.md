@@ -7,7 +7,7 @@
 * Data Analysis & Visualization  Matplotlib & Seaborn
 * فهمت الداتا وازاي تتعامل معاها بشكل احترافي
 
-📌 بعد كده دخلنا في مرحلة مهمة جدًا (اللي ناس كتير بتتجاهلها):
+📌 بعد كده دخلنا في مرحلة مهمة جدًا :
 
 * Missing Values
 * Encoding
