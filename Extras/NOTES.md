@@ -1,13 +1,12 @@
 ## IMPORTANT NOTES 3LA ELMA4YY
 
 ## COURSE :
-📌 بدأت  من الأساسيات:
+📌 بدأت من الأساسيات:
 
 * Python + Numpy + Pandas..
 * Data Analysis & Visualization  Matplotlib & Seaborn
-* فهمت الداتا وازاي تتعامل معاها بشكل احترافي
 
-📌 بعد كده دخلنا في مرحلة مهمة جدًا :
+📌 بعد كده دخلت في مرحلة مهمة جدًا :
 
 * Missing Values
 * Encoding
@@ -20,7 +19,7 @@
 * Pipelines & ColumnTransformer
 * التعامل مع الـ Unbalanced Data
 
-📌 وبعدها بدأنا نكسر الدنيا في Algorithms:
+📌 وبعدها بدأت اكسر الدنيا في Algorithms:
 
 * Linear Regression & Logistic Regression
 * Lasso & Ridge
@@ -29,7 +28,7 @@
 * SVM
 * Decision Tree
 
-📌 وبعد كده دخلنا مرحلة الاحتراف:
+📌 وبعد كده دخلت مرحلة الاحتراف:
 
 * Ensemble Learning
 * Bagging & Boosting
@@ -38,7 +37,7 @@
 * Hist Gradient Boosting
 * LightGBM & XGBoost & CatBoost
 
-📌 وكملنا الصورة كاملة:
+📌 وكملت الصورة كاملة:
 
 * Clustering (K-Means, Hierarchal, DBSCAN)
 * Time Series
@@ -46,7 +45,7 @@
 * Deployment
 
 📌 والأهم… التطبيق العملي
-اشتغلنا على مشاريع كتير جدًا حقيقية تقدر تتحط في Portfolio زي:
+اشتغلت على مشاريع كتير جدًا حقيقية تقدر تتحط في Portfolio زي:
 
 * House Price Prediction
 * Customer Segmentation
