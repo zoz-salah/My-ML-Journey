@@ -84,5 +84,5 @@ projects playlist:
 <img width="1080" height="986" alt="image" src="https://github.com/user-attachments/assets/caf0025a-e6f7-4c16-947c-ec38214dcc66" />
 
 
-GRADUATION PROJECT : (breast cancer detect and treatment)
+GRADUATION PROJECT: (breast cancer detect and treatment)
 
