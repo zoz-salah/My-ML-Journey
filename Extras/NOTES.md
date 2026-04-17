@@ -56,7 +56,7 @@
 * Loan Prediction
 * Heart Failure Prediction
 * Time Series Forecasting
-* End-to-End ML Project + Deployment باستخدام Streamlit
+* End-to-End ML Project  + Deployment باستخدام Streamlit
 
 link:
 https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd.in%2FdJ9hzaAE&urlhash=Odrz&mt=P6c9mZrYPKxnUQCMDgBBOju09M1vF_mI1ykqWvqTA34Yz0f56Rn7DuQcMAyZDSHmfQ3eM0jOA4LrvmXWrHtkzJonyt_wn2QUGG0nhy2jiuIdS8sTfeneuae8oNg&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRIDVqzP9SweOFAvpTM2gWg%3D%3D
