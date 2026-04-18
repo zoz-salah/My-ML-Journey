@@ -77,7 +77,7 @@ https://drive.google.com/file/d/1O6ie403lKLqGG5thZS9MzMQaQYyY5tjI/view
 
 ## PROJECT IDEAS 
 
-Project repo:
+Project repo :
 https://github.com/shsarv/Machine-Learning-Projects
 
 projects playlist:
