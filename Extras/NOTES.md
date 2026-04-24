@@ -55,7 +55,7 @@
 * Egypt Real Estate Prediction
 * Loan Prediction
 * Heart Failure Prediction
-* Time Series Forecasting
+* Time Series Forecastingg
 * End-to-End ML Project  + Deployment Streamlit
 
 link:  
