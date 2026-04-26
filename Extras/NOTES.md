@@ -53,7 +53,7 @@
 * Medical Cost Prediction
 * Australia Weather Prediction
 * Egypt Real Estate Prediction
-* Loan Prediction
+* Loan Predictionn
 * Heart Failure Prediction
 * Time Series Forecastingg
 * End-to-End ML Project  + Deployment Streamlit
