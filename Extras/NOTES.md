@@ -24,7 +24,6 @@
 * Linear Regression & Logistic Regression
 * Lasso & Ridge
 * Naive Bayes
-* KNN
 * SVM
 * Decision Tree
 
