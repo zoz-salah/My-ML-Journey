@@ -31,7 +31,7 @@
 
 * Ensemble Learning
 * Bagging & Boosting
-* Random Forest & Extra Trees
+* Random Forest & Extra Tree
 * AdaBoost & Gradient Boosting
 * Hist Gradient Boosting
 * LightGBM & XGBoost & CatBoost
