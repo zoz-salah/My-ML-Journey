@@ -23,7 +23,7 @@
 📌 وبعدها بدأت اكسر الدنيا في Algorithms:
 
 * Linear Regression & Logistic Regression
-* Lasso & Ridge
+* Lasso & Ridge.
 * Naive Bayes
 * SVM
 * Decision Tree
