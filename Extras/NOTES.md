@@ -45,7 +45,7 @@
 * Deployment
 
 📌 والأهم… التطبيق العملي
-اشتغلت على مشاريع كتير جدًا حقيقية تقدر تتحط في Portfolio زي:
+اشتغلت على مشاريع كتير جدًا حقيقية تقدر تتحط في Portfolio زي :
 
 * House Price Prediction
 * Customer Segmentation
