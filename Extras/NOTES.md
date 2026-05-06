@@ -11,7 +11,7 @@
 
 * Missing Values
 * Encoding
-* Scaling.
+* Scaling
 * Outliers
 * Cross Validation
 * Feature Selection
