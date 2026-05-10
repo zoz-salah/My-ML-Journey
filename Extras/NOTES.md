@@ -70,7 +70,7 @@ The Perceptron algorithm is the simplest type of artificial neural network.
 It  is a model of a single neuron that can be used for two-class classification problems and provides the foundation for later developing much larger networks.
 in python : https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/
 
-there is a polar for preprocecisig data instead of pandas   
+there is a polar for preprocecisig data instead of pandas    
 tutorial::
 https://www.datacamp.com/tutorial/python-polars-tutorial-complete-guide-for-beginner
 
