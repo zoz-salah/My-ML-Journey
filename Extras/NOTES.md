@@ -32,7 +32,6 @@
 * Linear Regression & Logistic Regression
 * Lasso & Ridge
 * Naive Bayes
-* SVM
 * Decision Tree
 
 📌 وبعد كده دخلت مرحلة الاحتراف:
