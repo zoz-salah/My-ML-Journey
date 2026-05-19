@@ -4,7 +4,7 @@
 📌 بدأت من الأساسيات:
 
 
-* Python + Numpy + Pandas.
+* Python + Numpy + Pandas
 * Data Analysis & Visualization  Matplotlib &  Seaborn
 
 
