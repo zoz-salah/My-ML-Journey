@@ -8,7 +8,7 @@ Machine Learning from scratch - Building algorithms step by step with pure code.
 
 ---
 
-## 📁 Structure 
+## 📁 Structure :
 
 ```
 01-ML-From-Scratch/
