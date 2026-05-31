@@ -81,6 +81,7 @@ there is a polar for preprocecisig data instead of pandas
 tutorial::
 https://www.datacamp.com/tutorial/python-polars-tutorial-complete-guide-for-beginner
 
+
 slides:
 https://drive.google.com/file/d/1O6ie403lKLqGG5thZS9MzMQaQYyY5tjI/view
 
