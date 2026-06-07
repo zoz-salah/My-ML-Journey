@@ -2,7 +2,6 @@
 
 ## COURSE :
 📌 بدأت من الأساسيات:
-
 * Python + Numpy + Pandas
 * Data Analysis & Visualization  Matplotlib & Seaborn
 
