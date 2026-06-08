@@ -10,7 +10,7 @@
 
 
 * Missing Values
-* Encoding
+* Encoding.
 * Scaling
 * Outliers
 * Cross Validation
