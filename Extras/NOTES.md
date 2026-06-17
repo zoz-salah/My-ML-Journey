@@ -13,7 +13,7 @@
 * Encoding
 * Scaling.
 * Outliers
-* Cross Validation..
+* Cross Validation
 * Feature Selection ..
 * Dimensionality Reductionn
 * Grid Search & Random Search
