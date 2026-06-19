@@ -14,7 +14,7 @@
 * Scaling.
 * Outliers
 * Cross Validation
-* Feature Selection ..
+* Feature Selection
 * Dimensionality Reductionn
 * Grid Search & Random Search
 * Pipelines & ColumnTransformer
