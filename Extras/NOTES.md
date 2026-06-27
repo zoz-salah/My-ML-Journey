@@ -1,4 +1,4 @@
-## IMPORTANT NOTES 3LA ELMA4YY
+## IMPORTANT NOTES 3LA ELMA4Y
 
 ## COURSE:
 📌 بدأت من الأساسيات:
