@@ -9,7 +9,7 @@
 📌 بعد كده دخلت في مرحلة مهمة جدًا :
 * Missing Values
 * Encoding
-* Scaling.
+* Scaling
 * Outliers
 * Cross Validation
 * Feature Selection
