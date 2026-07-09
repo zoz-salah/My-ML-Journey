@@ -24,5 +24,4 @@ from mathematical foundations to Neural Networks and NLP
 ### Phase 2: NLP Basics
 - Text preprocessing
 - Bag of Words
-- TF-IDF
 - Spam Classifier
