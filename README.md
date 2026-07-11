@@ -12,7 +12,7 @@ from mathematical foundations to Neural Networks and NLP
 - Linear Algebra
 - Propabilty and statistical methods
 - python syntax and oop
-- numpy, pandas
+- numpy , pandas
 - matplotib
 
 ### Phase 1: ML From Scratch
