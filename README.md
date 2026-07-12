@@ -5,7 +5,7 @@ from mathematical foundations to Neural Networks and NLP
 
 ## Roadmap
 
-### Phase 0:  Math Foundation & python 
+### Phase 0: Math Foundation & python 
 - Derivatives
 - Partial Derivatives
 - Chain Rule
