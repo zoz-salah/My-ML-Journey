@@ -13,7 +13,11 @@ This files implements **Linear Regression** from scratch using only NumPy. It de
 - How Gradient Descent works to find optimal parameters
 ---
 
-## 🧠 Theory
+## 🧠 Theory ^^ ternunology 
+
+x  : input variable
+y : output var = target
+m : im of train example 
 
 ### Linear Regression
 Linear Regression models the relationship between variables by fitting a linear equation:
