@@ -43,7 +43,7 @@ Gradient Descent is an optimization algorithm that iteratively finds the optimal
    MSE = (1/n) * Σ(y_true - y_pred)²
    ```
 
-2. **Gradient Calculation**:
+2. **Gradient Calculation** :
    ```
    ∂MSE/∂w = (-2/n) * Σx(y_true - y_pred)
    ∂MSE/∂b = (-2/n) * Σ(y_true - y_pred)
