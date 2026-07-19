@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 #     learning_rate=0.001,  # α - step size
 #     beta1=0.9,            
 #     beta2=0.999,          
-#     epsilon=1e-8          
+#     epsilon=1e-8            
 
 
 
