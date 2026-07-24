@@ -8,7 +8,7 @@ The purpose of this repository is to document my learning journey, track my prog
 
 ---
 
-## 👨‍💻 Program Information
+## 👨‍💻 Program Information :
 
 - **Organization:** Tech Trek
 - **Track:** Data Science & Artificial Intelligence
