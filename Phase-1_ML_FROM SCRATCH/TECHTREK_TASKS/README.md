@@ -4,7 +4,8 @@ Welcome to my **Tech Trek Data Science & Artificial Intelligence** folder.
 
 This repository contains all assignments, practice tasks, notebooks, projects, and capstone work completed during the **Tech Trek Organization** training program under the supervision of **Eng. Ayman Abdelnasser**.
 
-The purpose of this repository is to document my learning journey, track my progress, and showcase the practical skills I develop throughout the program.
+The purpose of this repository is to document my learning journey, track my progress, and showcase the practical skills i
+develop throughout the program.
 
 ---
 
