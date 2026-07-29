@@ -7,7 +7,7 @@ from mathematical foundations to Neural Networks and NLP
 
 ### Phase 0: Math Foundation & python 
 - Derivatives
-- Partial Derivatives
+- Partial Derivative
 - Chain Rule
 - Linear Algebra
 - Propabilty and statistical methods
