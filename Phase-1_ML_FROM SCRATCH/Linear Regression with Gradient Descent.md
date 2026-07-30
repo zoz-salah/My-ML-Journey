@@ -11,7 +11,8 @@ A from-scratch implementation of Linear Regression using Gradient Descent optimi
 This files implements **Linear Regression** from scratch using only NumPy. It demonstrates:
 - The mathematics behind linear regression
 - How Gradient Descent works to find optimal parameters
----
+----
+
 
 ## 🧠 Theory ^^ ternunology 
 
