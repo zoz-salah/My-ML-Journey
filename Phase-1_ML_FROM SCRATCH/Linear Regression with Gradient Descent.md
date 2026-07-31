@@ -57,7 +57,7 @@ Gradient Descent is an optimization algorithm that iteratively finds the optimal
    ```
    Where **α** is the learning rate
 
----
+----
 
 ## 📁 Files
 
