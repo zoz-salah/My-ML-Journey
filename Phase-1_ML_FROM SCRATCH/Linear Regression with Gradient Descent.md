@@ -4,7 +4,7 @@
 
 A from-scratch implementation of Linear Regression using Gradient Descent optimization algorithm.
 
----
+----
 
 ## 📋 Overview
 
