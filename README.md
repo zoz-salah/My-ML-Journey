@@ -1,6 +1,6 @@
 # ML Roadmap - From Scratch 🚀
 
-This repository documents my journey learning Machine Learning 
+This repository documents my journey learning Machine Learning
 from mathematical foundations to Neural Networks and NLP
 
 ## Roadmap
