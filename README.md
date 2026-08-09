@@ -3,6 +3,7 @@
 This repository documents my journey learning Machine Learning
 from mathematical foundations to Neural Networks and NLP
 
+
 ## Roadmap
 ### Phase 0: Math Foundation & python 
 - Derivatives
