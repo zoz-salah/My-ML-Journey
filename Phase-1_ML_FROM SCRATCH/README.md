@@ -32,6 +32,13 @@ Machine Learning from scratch - Building algorithms step by step with pure code.
 │   ├── test.py                                          # Evaluation
 │   └── README.md
 │
+│
+├── 05-TECHTREK/
+│   ├── P1 -> P4.IPYNP                                   # DATA ANALYSIS 
+│   ├── P4 - > P6.IPYNP                                  # Training ML MODELS
+│   ├── test.py                                          # Evaluation
+│   └── FINAL CAPSTONE PROJECT
+|
 └── datasets/                                            # Dataset folder (KAGGLE)
     └── README.md                                       
 ```
