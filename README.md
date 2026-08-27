@@ -25,5 +25,3 @@ from mathematical foundations to Neural Networks and NLP
 - Text preprocessing
 - Bag of Words
 - Spam Classifier
-
--
